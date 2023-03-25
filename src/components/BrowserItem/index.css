@@ -1,0 +1,38 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  width: 100%;
+  margin: 20px;
+  flex-wrap: wrap;
+}
+.sm-con {
+  display: flex;
+  width: 70%;
+  align-items: center;
+}
+.para {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+  margin-right: 50px;
+}
+.logo {
+  height: 40px;
+  margin-right: 20px;
+}
+.para1 {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+.logo2 {
+  height: 20px;
+}
+.delete {
+  background-color: #ffffff;
+  border: 0px solid;
+  cursor: pointer;
+  outline: none;
+}
